@@ -1,0 +1,13 @@
+{
+	"name": "tormojens/wp-blade-plugin",
+	"require": {
+		"tormjens/wp-blade": "2.0.1"
+	},
+	"license": "MIT",
+	"authors": [
+		{
+			"name": "Tor Morten Jensen",
+			"email": "tormorten@tormorten.no"
+		}
+	]
+}
