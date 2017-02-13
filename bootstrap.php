@@ -3,7 +3,7 @@
 /**
  * Require the autoloader
  */
-require 'vendor/autoload.php';
+require 'wp-blade/vendor/autoload.php';
 
 /**
  * Blade namespace

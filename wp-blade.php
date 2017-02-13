@@ -33,7 +33,7 @@ if(wp_blade_requirements_met()) {
 	function wp_blade_add_blade_support() {
 		add_theme_support( 'blade-templates' );
 	}
-	// add_action( 'after_setup_theme', 'wp_blade_add_blade_support' );
+	add_action( 'after_setup_theme', 'wp_blade_add_blade_support' );
 
 	/**
 	 * Bootstrap if current theme supports blade templates
